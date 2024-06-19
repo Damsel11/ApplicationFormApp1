@@ -1,6 +1,6 @@
-@ApplicationFormApp1_HostAddress = http://localhost:5202
+@ApplicationFormApp1_HostAddress = http://localhost:8081
 
-GET {{ApplicationFormApp1_HostAddress}}/weatherforecast/
+GET {{ApplicationFormApp1_HostAddress}}/ApplicationFormApp1/
 Accept: application/json
 
 ###
